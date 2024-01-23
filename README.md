@@ -6,9 +6,10 @@ This was made together with Elie Audette and Khaled Dlimi as our final CEGEP pro
 
 The main frame was required to be in JavaFX (so 2D). To push ourselves, we decided to utilize this opportunity and deepen our knowledge of low level graphical programming. Thus, we created this 3D simulation which is embedded into a JavaFX Frame.
 
-## Showcase:
+## Showcase
+### Click for YT Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h4GixTUG0Cw/0.jpg)](https://www.youtube.com/watch?v=h4GixTUG0Cw
+[![YT Link for 3BP](https://img.youtube.com/vi/h4GixTUG0Cw/0.jpg)](https://www.youtube.com/watch?v=h4GixTUG0Cw)
 
 ## Features
 - Custom initial parameters
